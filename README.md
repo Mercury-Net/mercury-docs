@@ -48,16 +48,16 @@ In the competitive landscape, Mercury has established a significant differentiat
 
 Mercury’s core value lies in achieving a balance between privacy and compliance through technological innovation, providing multi-party win-win solutions for users, protocols, and regulators. This is reflected in the following:
 
+* **AI-driven Transaction Analysis**: Through the FinTax module, combined with AI automatic recognition and user-manually labeled transaction types, Mercury builds the most comprehensive transaction database across all chains, providing precise support for tax reporting and compliance auditing.
 * **On-Chain Compliance Tools**: By using Verifiable Credentials (VC) and a full-chain tax label system, Mercury provides convenient tools for individual users, protocol developers, and government departments to ensure on-chain activities meet regulatory requirements for identity verification and tax compliance.
 * **Privacy Protection**: Based on Zero-Knowledge Proof (ZKP) technology, Mercury ensures "minimal exposure" of user data. Users can complete identity and transaction legitimacy verification without revealing original information (such as transaction details or identity data).
 * **Unified On-chain Identity**: Using TRID (Tax Residency DID) as the unified identity anchor, Mercury aggregates cross-chain addresses and behavior data to create a trustworthy on-chain tax residency identity system, offering a one-stop identity management experience.
-* **AI-driven Transaction Analysis**: Through the FinTax module, combined with AI automatic recognition and user-manually labeled transaction types, Mercury builds the most comprehensive transaction database across all chains, providing precise support for tax reporting and compliance auditing.
 
 Mercury's unique technological advantages further enhance its market competitiveness:
 
+* **AI-enabled Efficiency**: The FinTax module utilizes AI models to automatically identify transaction types (such as capital gains and staking rewards), complementing user-manually labeled data to significantly improve the accuracy and convenience of tax reporting.
 * **Full-chain Coverage**: Integrating manually labeled data with AI-automatically labeled transaction types, Mercury builds an industry-leading VC database that covers major public chains (such as Ethereum, Solana, and Polygon) and achieves data interoperability through cross-chain communication protocols.
 * **Privacy and Compliance**: Leveraging Zero-Knowledge Proof technology, users can generate tax payment certificates (e.g., proving that on-chain transactions have been taxed) without disclosing specific transaction details, meeting government tax and Anti-Money Laundering (AML) requirements while protecting user privacy.
-* **AI-enabled Efficiency**: The FinTax module utilizes AI models to automatically identify transaction types (such as capital gains and staking rewards), complementing user-manually labeled data to significantly improve the accuracy and convenience of tax reporting.
 
 ## Target Market and User Value
 
