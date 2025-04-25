@@ -1,6 +1,6 @@
-# Phase 1: Individual Users Payment Model (0-12 Months)
+# Phase 3: Individual Users Payment Model ( 13-24Months)
 
-In the first phase of the project, Mercury will focus on acquiring users and accumulating an on-chain data labeling library. The goal is to establish a TRID adoption flywheel, laying the foundation for user and data growth in subsequent phases. The primary revenue sources will consist of three parts:
+In the 3rd phase of the project, Mercury will focus on acquiring users and accumulating an on-chain data labeling library. The goal is to establish a TRID adoption flywheel, laying the foundation for user and data growth in subsequent phases. The primary revenue sources will consist of three parts:
 
 1. TRID Minting Fee: Priced at 0.99 USDC per TRID (first batch users will enjoy free or limited-time discounted minting), lowering the entry barrier for users.
 2. VC Generation Service Fee: Tiered pricing based on credential complexity. For example, generating simple address verification credentials is free, while more complex credentials like tax compliance proofs are charged at 0.5 USDC per instance.
